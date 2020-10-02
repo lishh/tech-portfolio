@@ -3,15 +3,8 @@ id: about
 title: About
 ---
 
-You can start your "About" page with an elevator pitch, one or two
-sentences about you! The rest of this page page can
-include a little bit about yourself. Some things you
-might include:
-
-1. Your current position
-1. Organizations you're involved with
-1. Your personal and professional values
-1. Hobbies or fun facts
+I am proud of being awarded the GHC 2020 scholarship to attend the largest gathering of women in technology, known as the Grace Hopper Celebration. 
+I am a Ph.D. student at the Visualization and MultiMedia Lab of the University of Zurich, working as an Early-Stage Researcher in the H2020 MSCA-ITN project EVOCATION, in the problem of indoor reconstruction of scenes. I earned my BSc degree in computer science from the National University of Saint Augustine, Arequipa - Peru, and my MSc degree in computer science from Federal Fluminense University, Niteroi - Brazil. My research interests are geometry processing, shape analysis, machine learning, and computer vision.
 
 Write it in first (I) or third (Your Name Here) person.
 
